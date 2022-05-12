@@ -23,4 +23,4 @@ https://ghdtkdbs12.github.io/242RosettaMk2/KoreanRosettaMk2.zip
 
 
 파이썬파일 다운로드(VS코드연동해야함)
-https://ghdtkdbs12.github.io/242RosettaMk2/RosettaMk2.py
+https://ghdtkdbs12.github.io/242RosettaMk2/KoreanRosettaMk2.py
