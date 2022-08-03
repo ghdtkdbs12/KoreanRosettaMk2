@@ -1,1 +1,27 @@
 # KoreanRosettaMk2
+
+#|---------------------------------------------------------
+#|제목: Korean Rosetta Mark2                            
+#|제작: Made by Hong Seoung jin                            
+#|날짜: 2022년 제작                                              
+#|쟁점: Tkinter를 활용한 파이썬의 GUI제작 용이성 활용    
+#|기능: 한글과 영어를 Qwerty기준 변경                    
+#|----------------------------------------------------------
+
+Rosetta Mark2는 KoreanRosetta의 2번째 버전입니다.
+mini는 한글과 영어를 동시에 Qwerty자판 기준으로 번역하여 줍니다.
+Big은 한글과 영어를 동시에 Qwerty자판 기준으로 번역해주며, only korean, only English를 지원합니다.
+
+파이썬 실행파일.zip다운로드 (VS코드연동해야함)
+https://ghdtkdbs12.github.io/242RosettaMk2/KoreanRosettaMk2.zip
+
+
+파이썬파일 다운로드(VS코드연동해야함)
+https://ghdtkdbs12.github.io/242RosettaMk2/KoreanRosettaMk2.py
+
+  Must install in cmd!
+  반드시 CMD에서 기능을 인스톨하세요.
+  -> pip install hangul-utils
+
+발표자료 pdf 다운로드
+https://ghdtkdbs12.github.io/242RosettaMk2/RosettaMk2%EC%9D%98%20%EB%B0%9C%ED%91%9C%EC%9A%A9pdf%ED%8C%8C%EC%9D%BC.pdf
