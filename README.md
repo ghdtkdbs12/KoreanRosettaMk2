@@ -11,5 +11,6 @@ mini는 한글과 영어를 동시에 Qwerty자판 기준으로 번역하여 줍
 Big은 한글과 영어를 동시에 Qwerty자판 기준으로 번역해주며, only korean, only English를 지원합니다.
 
 처음 이용시 사용방법
-1. KoreanRosettaMK2를 다운로드 받습니다.
+1. KoreanRosettaMK2.zip를 다운로드 받습니다.
+2. KoreanRosettaMk2.zip의 압축을 풉니다.
 2. KoreanRosettaMk2.exe 파일을 찾아서 실행합니다.
