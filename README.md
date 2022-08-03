@@ -12,4 +12,4 @@ Big은 한글과 영어를 동시에 Qwerty자판 기준으로 번역해주며, 
 
 처음 이용시 사용방법
 1. KoreanRosettaMK2를 다운로드 받습니다.
-2. KoreanRosettaMk2.exe 파일을 실행합니다.
+2. KoreanRosettaMk2.exe 파일을 찾아서 실행합니다.
